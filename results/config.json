@@ -1,0 +1,23 @@
+{
+  "cache": "work/data",
+  "output": "results",
+  "backend": "causalml",
+  "test_size": 0.2,
+  "sample_size": null,
+  "trees": 50,
+  "importance_rows": 5000,
+  "permutation_repeats": 3,
+  "sms_cost": null,
+  "visit_margin": null,
+  "segment_threshold": 0.1,
+  "save_models": false,
+  "random_state": 42,
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "packages": {
+    "numpy": "1.26.4",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.6.1",
+    "xgboost": "3.0.5",
+    "scikit-uplift": "0.5.1"
+  }
+}

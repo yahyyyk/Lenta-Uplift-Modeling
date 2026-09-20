@@ -1,0 +1,30 @@
+{
+  "model": "X-Learner (XGBoost)",
+  "clients": 137406,
+  "sms_top30": 41222,
+  "sms_all": 137406,
+  "sms_saved": 96184,
+  "sms_saved_share": 0.6999985444594851,
+  "predicted_visits_top30": 640.7608601422442,
+  "predicted_visits_all": 843.8278176845455,
+  "predicted_visits_lost": 203.06695754230134,
+  "observed_top30": {
+    "uplift": 0.012810382160445805,
+    "low": 0.0043895300775952835,
+    "high": 0.021231234243296326,
+    "n_treatment": 31078,
+    "n_control": 10144
+  },
+  "observed_all": {
+    "uplift": 0.007549164484561097,
+    "low": 0.003810021009599676,
+    "high": 0.011288307959522518,
+    "n_treatment": 103179,
+    "n_control": 34227
+  },
+  "observed_incremental_visits_top30": 528.069573417897,
+  "observed_incremental_visits_all": 1037.3004951656021,
+  "observed_visits_lost": 509.2309217477051,
+  "sms_cost": null,
+  "visit_margin": null
+}
