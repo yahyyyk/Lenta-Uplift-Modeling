@@ -1,0 +1,4 @@
+-r requirements-core.txt
+causalml==0.16.0; python_version >= '3.11'
+causalml==0.15.5; python_version < '3.11'
+shap>=0.45,<0.50
