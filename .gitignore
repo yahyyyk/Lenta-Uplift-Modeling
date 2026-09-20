@@ -5,3 +5,8 @@ venv/
 work/
 .env
 *.log
+**/test_ranked.csv.gz
+**/test_rows.csv
+**/train_rows.csv
+**/preprocessing.joblib
+**/models.joblib
